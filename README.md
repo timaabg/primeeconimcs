@@ -1,25 +1,20 @@
 # Prime Economics
 
-**Prime Economics** — bu O‘zbekistonda faoliyat yurituvchi brokerlik kompaniyasining rasmiy veb-sayti bo‘lib, mijozlarga Toshkent Tovar-Xomashyo Birjasi orqali investitsiya qilish, savdolarni amalga oshirish va iqtisodiy axborot olish imkonini beradi.
+### 🌐 Veb-sayt:
+👉 [https://timaabg.github.io/primeeconimcs/](https://timaabg.github.io/primeeconimcs/)
 
-## Sahifalar
+### 📌 Kompaniya haqida:
+**Prime Economics** — bu O‘zbekistondagi ishonchli brokerlik kompaniyasi bo‘lib, mijozlarga birja savdolarida ishtirok etish uchun zarur bo‘lgan professional xizmatlarni taklif qiladi.
 
-- **Bosh sahifa** – Kompaniyamiz haqida umumiy ma’lumot
-- **Biz haqimizda** – Kompaniyamiz tarixi, maqsadlari va jamoamiz haqida
-- **Hamkorlar** – Ishonchli sheriklar ro‘yxati
-- **Bog‘lanish** – Aloqa ma’lumotlari va forma
-- **Xizmatlar** – Taklif etilayotgan xizmatlar haqida batafsil
+### 🤝 Hamkorlarimiz:
+- **Toshkent Tovar-Xomashyo Birjasi**
+- **Milliy Bank**
+- **Davlat Soliq Qo‘mitasi**
 
-## Texnologiyalar
+### 🛠 Texnologiyalar:
+- HTML + Tailwind CSS
+- GitHub Pages orqali hosting
 
-- HTML5
-- TailwindCSS
-- GitHub Pages
+---
 
-## GitHub Pages havola
-
-👉 [Saytni ko‘rish](https://timaabg.github.io/primeeconimcs/)
-
-## Litsenziya
-
-Ushbu loyiha ochiq manba bo‘lib, istalgan foydalanish uchun mo‘ljallangan.
+© 2025 Prime Economics. Barcha huquqlar himoyalangan.
